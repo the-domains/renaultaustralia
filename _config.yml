@@ -1,0 +1,28 @@
+name: renaultaustralia
+favicon: null
+layout_spectrum: 0.43379948334768414
+typography_spectrum: 0.4831232214346528
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5659741761628538
+  lightness: 0.45924201840534806
+  saturation: 0.04585154773667455
+  rhythmicContrast: 0.5747217191383243
+purpose: []
